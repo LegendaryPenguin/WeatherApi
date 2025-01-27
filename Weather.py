@@ -47,3 +47,4 @@ my_city.temp_print()
 
 vacation_city = City('Portland', 45.5152, -122.6768, units = 'imperial')
 vacation_city.temp_print()
+print ('Yay')
